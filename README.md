@@ -4,7 +4,7 @@
 ![Metrics](https://metrics.lecoq.io/Jamartin-create?template=classic&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&calendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,27 +49,27 @@ Sunday       52 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   15 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   41.7% 
-Java                     9 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.81% 
-JavaScript               5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
-HTML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
-TypeScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.95%
+Vue.js                   16 hrs 56 mins      ███████████░░░░░░░░░░░░░░   47.15% 
+Java                     9 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.1% 
+JavaScript               5 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
+HTML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.31% 
+JSON                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62%
 
 🔥 Editors: 
-VS Code                  24 hrs 8 mins       ████████████████░░░░░░░░░   66.41% 
-IntelliJ                 9 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   26.97% 
-HbuilderX                2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.48% 
+VS Code                  23 hrs 43 mins      ████████████████░░░░░░░░░   66.01% 
+IntelliJ                 9 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   27.29% 
+HbuilderX                2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
 PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🐱‍💻 Projects: 
-2022-9-1                 9 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   26.26% 
-SiFang-Wuliu-Web         7 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08% 
-NetEaseMusic             6 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15% 
-WTBU_BDMT_MANAGE         5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
-WTBUBadmintonTeamManageme2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.48%
+2022-9-1                 9 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   26.57% 
+NetEaseMusic             9 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77% 
+SiFang-Wuliu-Web         7 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33% 
+WTBU_BDMT_MANAGE         4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+WTBUBadmintonTeamManageme2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.56%
 
 💻 Operating System: 
-Windows                  36 hrs 21 mins      █████████████████████████   100.0%
+Windows                  35 hrs 55 mins      █████████████████████████   100.0%
 
 ```
 
@@ -90,5 +90,5 @@ Stylus                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Jamartin-create/Jamartin-create/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2022 18:57:39 UTC
+ Last Updated on 03/10/2022 19:04:22 UTC
 <!--END_SECTION:waka-->
